@@ -1,1 +1,1 @@
-Hi, This is a Starbucks homepage clone by using HTML and CSS.
+Hello, This is a Starbucks homepage clone by using HTML and CSS.
